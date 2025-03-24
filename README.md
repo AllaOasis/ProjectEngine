@@ -32,7 +32,7 @@ ProjectEngine is a lightweight game engine aiming to provide a retro-style rende
 3. Build and run the project.  
 
 ## 📸 Screenshots  
-(Insert screenshots or GIFs here when available)  
+coming soon...
 
 ## 📜 License  
 MIT License
